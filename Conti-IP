@@ -1,4 +1,4 @@
-# Source https://ddanchev.blogspot.com/2022/02/exposing-conti-ransomware-gang-osint_28.html
+# Source https://ddanchev.blogspot.com/2022/02/exposing-conti-ransomware-gang-osint_28.html # Exclude 8.8.8.8
 63.141.224.42
 3.128.1.29
 216.244.83.226
@@ -111,7 +111,6 @@
 117.212.195.197
 134.119.191.22
 194.87.145.86
-8.8.8.8
 217.12.218.199
 91.235.129.41
 185.25.48.85
