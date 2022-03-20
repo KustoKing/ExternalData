@@ -1,4 +1,4 @@
-# Source https://ddanchev.blogspot.com/2022/02/exposing-conti-ransomware-gang-osint_28.html # Exclude 8.8.8.8
+# Source https://ddanchev.blogspot.com/2022/02/exposing-conti-ransomware-gang-osint_28.html Excluded Google and Cloudflare DNS
 63.141.224.42
 3.128.1.29
 216.244.83.226
@@ -569,7 +569,6 @@
 64.227.113.155
 188.225.33.51
 199.116.81.194
-1.1.1.1
 195.123.213.19
 173.232.146.118
 52.237.163.166
